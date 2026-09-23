@@ -2,9 +2,9 @@
 
 ## Entity and brand structure
 
-**WorthWyl LLC** is the commercial licensing and technology entity for Convertible Cranium software and related technical assets, subject to the applicable agreements and repository-specific notices.
+**Convertible Cranium Engineering LLC** is the intended engineering, platform, and licensing entity for Convertible Cranium software and related technical assets, subject to legal formation, assignment, applicable agreements, and repository-specific notices.
 
-**WorthWyl Media** is the creative and publishing branch behind books, media production, and Kindle Direct Publishing (KDP). **Convertible Cranium Engineering** is the software and engineering division of WorthWyl Media through which the Convertible Cranium Ecosystem is presented.
+**WorthWyl Media** is the creative and publishing branch behind books, media production, and Kindle Direct Publishing (KDP). **Convertible Cranium Engineering LLC** is the intended software and platform entity through which the Convertible Cranium Ecosystem is developed, licensed, and presented.
 
 **WorthWyl Foundation** is a separate nonprofit branch for public-benefit and mission-driven work. It should not be presumed to own or license commercial Convertible Cranium software unless a written agreement states otherwise.
 

@@ -1,4 +1,4 @@
-# WorthWyl Technical Documentation Hub
+# Convertible Cranium Technical Documentation Hub
 
 This public hub presents the architecture, evidence boundaries, and deployment concepts behind the WorthWyl / **Convertible Cranium** engineering portfolio. Proprietary implementation repositories are private while acquisition diligence is in progress; public materials explain the system without exposing the source of the core control plane.
 
@@ -40,7 +40,7 @@ For technical or acquisition inquiries:
 
 ## WorthWyl ownership and review entry point
 
-The Convertible Cranium Ecosystem is presented through **Convertible Cranium Engineering**, the software and engineering division of **WorthWyl Media**. Commercial licensing and related technical assets are intended to be handled through **WorthWyl LLC**. **WorthWyl Foundation** is a separate nonprofit branch. See [`RIGHTS-AND-LICENSING.md`](./RIGHTS-AND-LICENSING.md) for the ownership boundary.
+The Convertible Cranium Ecosystem is presented through **Convertible Cranium Engineering LLC**, the intended engineering, platform, and licensing entity. **WorthWyl Media** remains the creative and publishing branch, and **WorthWyl Foundation** is a separate nonprofit branch. See [`RIGHTS-AND-LICENSING.md`](./RIGHTS-AND-LICENSING.md) for the ownership boundary.
 
 Visual overview: [`assets/cranium-architecture.svg`](./assets/cranium-architecture.svg).
 
