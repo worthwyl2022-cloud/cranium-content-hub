@@ -237,7 +237,7 @@ Cranium Core transforms LLM assistance from a "high-risk curiosity" to a **produ
 
 **Contact Cranium Core for Enterprise Implementation:**
 
-📧 **worthwyl2022@gmail.com**  
+📧 **wyl.mathes@cranium.ambi.cc**  
 🌐 **worth-wyl-media-d9ead881.base44.app**  
 📞 **702-602-7543**
 

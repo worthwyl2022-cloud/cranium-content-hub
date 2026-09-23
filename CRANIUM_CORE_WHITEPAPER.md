@@ -274,7 +274,7 @@ Cranium Core represents a fundamental shift in LLM governance architecture. By s
 ---
 
 **For technical inquiries or enterprise licensing:**  
-📧 worthwyl2022@gmail.com  
+📧 wyl.mathes@cranium.ambi.cc  
 🌐 worth-wyl-media-d9ead881.base44.app  
 📞 702-602-7543
 

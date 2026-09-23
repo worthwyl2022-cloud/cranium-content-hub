@@ -36,7 +36,7 @@ Qualified reviewers may receive controlled access to private implementation repo
 
 For technical or acquisition inquiries:
 
-- Email: worthwyl2022@gmail.com
+- Email: wyl.mathes@cranium.ambi.cc
 - Web: worth-wyl-media-d9ead881.base44.app
 - Phone: 702-602-7543
 

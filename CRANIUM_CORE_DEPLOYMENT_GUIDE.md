@@ -352,7 +352,7 @@ Every Cranium Core decision logged with:
 
 ### Support Channels
 
-- **Email**: worthwyl2022@gmail.com
+- **Email**: wyl.mathes@cranium.ambi.cc
 - **Slack**: Cranium Core workspace (for enterprise clients)
 - **Documentation**: Full API reference at content-hub repo
 - **Bug Reports**: GitHub issues (private repo for clients)
@@ -433,7 +433,7 @@ Post-Deployment Metrics (90 days):
 
 **Cranium Core Deployment Team**
 
-📧 **worthwyl2022@gmail.com**  
+📧 **wyl.mathes@cranium.ambi.cc**  
 🌐 **worth-wyl-media-d9ead881.base44.app**  
 📞 **702-602-7543**
 
