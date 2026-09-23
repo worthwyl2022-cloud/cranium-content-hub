@@ -1,17 +1,21 @@
 # WorthWyl Technical Documentation Hub
 
-This public hub presents the architecture, evidence boundaries, and deployment concepts behind the WorthWyl / **Convertible Cranium** engineering portfolio. Proprietary implementation repositories are private while acquisition diligence is in progress; public materials explain the system without exposing the source of the core control plane.
+This public hub presents the architecture, evidence boundaries, and deployment concepts behind the WorthWyl / **Convertible Cranium** engineering portfolio. Convertible Cranium is positioned as a **category-defining governance substrate for AI infrastructure**: an infrastructure layer, a dual-engine authority boundary, an ecosystem of interoperable components, and multiple standalone products.
+
+Proprietary implementation repositories are private while acquisition diligence is in progress; public materials explain the system without exposing the source of the core control plane.
 
 ## Principal platform
 
 The portfolio’s central technical thesis is a governed control plane for AI systems:
 
-- **Convertible Cranium Core** governs authority transitions and evidence requirements.
-- **Convertible Cranium Synapse** defines attestation, risk-score, and intervention contracts.
-- **Convertible Cranium Kernel** provides receipt integrity, replay controls, atomic recovery, and governed memory.
-- **Convertible Cranium Ultra** integrates the Core and operating-environment surfaces for demonstration and verification.
+- **Convertible Cranium Synapse** produces bounded cognition, attestation, evidence, risk signals, and intervention context.
+- **Convertible Cranium Core / Kernel** governs authority transitions, evidence requirements, receipts, replay controls, atomic recovery, and governed memory.
+- **Convertible Cranium ecosystem** supplies contracts, documentation, research, demonstrations, and integration surfaces.
+- **Standalone products** provide independently deployable operator, creative, diligence, and demonstration experiences.
 
-Together, these components are intended to make AI-enabled actions auditable, bounded, and resistant to malformed, stale, replayed, or unauthorized transitions.
+> **Synapse carries cognition. Core governs action.**
+
+Together, these components are intended to make AI-enabled actions auditable, bounded, and resistant to malformed, stale, replayed, or unauthorized transitions. The category thesis is governance between AI output and consequential action—not another model, wrapper, or single-purpose application.
 
 ## Published materials
 
